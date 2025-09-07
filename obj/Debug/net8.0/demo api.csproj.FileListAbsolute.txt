@@ -1,0 +1,42 @@
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\appsettings.json
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\demo api.staticwebassets.endpoints.json
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\demo api.exe
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\demo api.deps.json
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\demo api.runtimeconfig.json
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\demo api.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\demo api.pdb
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\DnsClient.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\Snappier.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\demo api.csproj.AssemblyReference.cache
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\demo api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\demo api.AssemblyInfoInputs.cache
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\demo api.AssemblyInfo.cs
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\demo api.csproj.CoreCompileInputs.cache
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\demo api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\demo api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\scopedcss\bundle\demo api.styles.css
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\demo api.csproj.Up2Date
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\demo api.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\refint\demo api.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\demo api.pdb
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\demo api.genruntimeconfig.cache
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\obj\Debug\net8.0\ref\demo api.dll
+C:\Users\tejas\OneDrive\Desktop\Asp.Net\demo api\bin\Debug\net8.0\demo api.staticwebassets.runtime.json
